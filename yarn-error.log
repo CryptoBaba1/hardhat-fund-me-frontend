@@ -1,0 +1,27 @@
+Arguments: 
+  /home/sunil/.nvm/versions/node/v14.17.3/bin/node /home/sunil/.node/corepack/yarn/1.22.19/bin/yarn.js add --dev prettier
+
+PATH: 
+  /home/sunil/.nvm/versions/node/v14.17.3/bin:/home/sunil/.vscode-server/bin/30d9c6cd9483b2cc586687151bcbcd635f373630/bin/remote-cli:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/Program Files/Git/cmd:/mnt/c/Program Files/nodejs/:/mnt/c/Users/gumma/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/gumma/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Users/gumma/AppData/Roaming/npm
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  14.17.3
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: getaddrinfo EAI_AGAIN registry.yarnpkg.com
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
